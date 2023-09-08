@@ -21,3 +21,7 @@ Hago modificaciones para resolver 1 de 3 vulnerabilidades de este archivo.
 Hago modificaciones para resolver 2 de 3 vulnerabilidades de este archivo.
 Hago modificaciones para probar el git stash
 Hago mas modificaciones para probar el git stash
+
+Commit 1 en develop
+Commit 2 en develop
+Commit 3 en develop
